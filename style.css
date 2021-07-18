@@ -1,0 +1,44 @@
+body {
+  background-color: beige;
+  text-align: center;
+}
+div {
+  color: cornflowerblue;
+  font-size: 100px;
+}
+h1 {
+  color: cornflowerblue;
+  font-size: 100px;
+}
+
+h2 {
+  color: cornflowerblue;
+  font-size: 80px;
+}
+
+input {
+  width: 500px;
+  height: 50px;
+  color:aqua;
+  text-align: center;
+  background-color: black;
+  font-size: 30px;
+}
+
+input::placeholder {
+  color:aqua;
+}
+
+button {
+  width: 80px;
+  height: 55px;
+  color:aqua;
+  background-color: black;
+  font-size: 30px;
+}
+
+span {
+  text-align: center;
+  color: red;
+  font-size: 100px;
+}
